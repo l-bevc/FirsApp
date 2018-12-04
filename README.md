@@ -1,2 +1,2 @@
-# FirsApp
+# FirstApp
 Learning Angular

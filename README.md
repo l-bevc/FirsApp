@@ -1,2 +1,0 @@
-# FirstApp
-Learning Angular
